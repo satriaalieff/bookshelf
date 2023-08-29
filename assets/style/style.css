@@ -22,6 +22,7 @@ body {
   background-color: var(--white);
   color: var(--black);
   font-weight: 500;
+  min-height: 100vh;
 }
 
 /* Header Start */
